@@ -199,7 +199,7 @@ An object is no longer reachable when:
 * The object no longer has any references pointing to it
 * All references to the object have gone out of scope
 
-:warning It is the object that gets garbage collected, not its references
+:warning: It is the object that gets garbage collected, not its references
 
 #### Finalize()
 ```finalize()``` fet called if the garbage collector tries to collect the object
