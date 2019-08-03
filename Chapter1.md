@@ -1,4 +1,3 @@
-# Oracle Certified Associate
 ## Java Building Blocks
 ### Fields and methods
 * Methods (procedures)
@@ -179,7 +178,7 @@ Class variables have  the keyword ```static``` before it
 Local variables can never have a scope larger than the method they are defined in\
 However, they can have a smaller scope\
 
-|   |   |
+|Variable Type|Scope|
 |---|---|
 |Local variables|In scope from declaration to end of block|
 |Instance variables|In scope from declaration until garbage collected|
